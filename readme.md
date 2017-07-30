@@ -1,4 +1,4 @@
-# rn-component-cookbook
+# React Native Component Cookbook
 👨🏽‍🍳👩‍🍳 Recipes for handling everyday issues when building third-party react-native components
 
 ## Recipies
