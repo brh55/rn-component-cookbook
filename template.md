@@ -60,5 +60,5 @@ Include additional links for native elements used, code samples, and more.
 ---
 **Before You Submit a PR**
 1. Save your file with the following scheme: `recipe-title-MM-DD-YY.md`
-2. Make sure to update the recipe index on the [`readme`](https://github.com/brh55/rn-component-cookbook/blob/master/readme.md), if there isn't a category that seems to fit properly.
+2. Make sure to update the recipe index on the [`readme`](https://github.com/brh55/rn-component-cookbook/blob/master/readme.md), if there isn't a category that seems to fit properly, create a new category.
 3. Delete this section
