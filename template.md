@@ -9,7 +9,7 @@ An explanation of the problem.
 The solution implementation in a simple and concise manner.
 
 ### Code Samples
-Please use jsx as the language for `react-native` highlighting
+Please use jsx as the language for `react-native` highlighting.
 
 ```jsx
 // Use ... for condensing code samples to maintain relevancy
@@ -57,3 +57,8 @@ Include additional links for native elements used, code samples, and more.
 - [Example Link 2](link)
 - [Example Link 3](link)
 
+---
+**Before You Submit a PR**
+1. Save your file with the following scheme: `recipe-title-MM-DD-YY.md`
+2. Make sure to update the recipe index on the [`readme`](https://github.com/brh55/rn-component-cookbook/blob/master/readme.md), if there isn't a category that seems to fit properly.
+3. Delete this section
