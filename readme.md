@@ -2,8 +2,8 @@
 👨🏽‍🍳👩‍🍳 Recipes for handling everyday issues when building third-party react-native components
 
 ## Visual Recipies
-- [Parent Dimensions](/tree/master/visual/parent-element-dimensions-7-30-17.md) - Finding the available space for the component
-- [Device Rotation](/tree/master/visual/device-rotation-7-30-17.md) - A succinct way to handle rotations within component state
+- [Parent Dimensions](/visual/parent-element-dimensions-7-30-17.md) - Finding the available space for the component
+- [Device Rotation](/visual/device-rotation-7-30-17.md) - A succinct way to handle rotations within component state
 
 ## Contribute
 > 👩🏾‍💼👨🏻‍💼
