@@ -26,7 +26,8 @@ render() {
 ### Notes/Annotations
 Include comments with the following symbol keys to include annotations/notes for readers.
 ```md
-> [Symbol] [Type of Annotation]/s/s/s/s <-- 4 Spaces to force a line break
+> [Symbol] **[Type of Annotation]**/s/s/s/s <-- 4 Spaces to force a line break
+> Your annotation here
 ```
 #### Symbols
 - ⚠️ Warning
@@ -36,16 +37,16 @@ Include comments with the following symbol keys to include annotations/notes for
 
 #### Example
 
-> ⚠️ Warning    
+> ⚠️ **Warning**    
 > You may run into issues at x, y, z.
 
-> ✏️ Pro-Tip    
+> ✏️ **Pro-Tip**    
 > Here is a condense way of writing x, y, z.
 
-> 🗒 Note    
+> 🗒 **Note**    
 > Remember to do x, y, z.
 
-> 💡 Idea    
+> 💡 **Idea**    
 > It may be possible to do x, y, z.
 
 ## Discussions
