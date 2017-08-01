@@ -1,4 +1,7 @@
 # Parent Element Dimensions
+> ***By:** Brandon Him - [Brh55](https://github.com/brh55)*  
+> ***Contributors:** N/A*
+
 **react:** ^16.0.0-alpha.X <br>
 **react-native:** ^0.43.0
 
