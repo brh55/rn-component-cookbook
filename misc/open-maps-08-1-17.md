@@ -8,8 +8,10 @@
 Your component needs a deep link to open up Google Maps or Apple Maps for a location.
 
 ## Solution
-1. Use the `linking` library provided by React-Native
-`import { Linking } from 'react-native'`
+1. Use the `linking` library provided by react-native    
+   ```jsx
+   import { Linking } from 'react-native';
+   ```
 2. The `.openURL` method can take the following URLS to open the corresponding map application:
     ```jsx
    Linking.openURL(`http://maps.apple.com/?ll=${LATITUDE},${LONGITUDE}`)
