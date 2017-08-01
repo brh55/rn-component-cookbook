@@ -17,7 +17,7 @@
 **👋🏽 Hello there!**    
 **Do you have an excellent recipe 🥘?**
 
-Contributions are desired and welcomed! Just make sure to follow the [cookbook template](/tree/master/template.md) to get the most out of your recipe and help the book stay consistent.
+Contributions are desired and welcomed! Just make sure to follow the [cookbook template](/template.md) to get the most out of your recipe and help the book stay consistent.
 
 ## License
 MIT © [Brandon Him](https://github.com/brh55/rn-component-cookbook)
