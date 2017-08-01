@@ -1,4 +1,7 @@
 # Recipe Title
+> ***By:** Name - [GitHub Username](GitHub Link)*  
+> ***Contributors:** N/A*
+
 **react:** `^Version` <br>
 **react-native:** `^Version`
 
