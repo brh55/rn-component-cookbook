@@ -1,4 +1,7 @@
-# Deep Link Maps For A Location
+# Deep Linking Maps For A Location
+> ***By:** Brandon Him - [Brh55](https://github.com/brh55)*  
+> ***Contributors:** N/A*
+
 **react:** `^16.alpha.X` <br>
 **react-native:** `^0.43.0`
 
