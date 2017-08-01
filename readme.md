@@ -3,8 +3,12 @@
 
 ## Recipies
 ### Visual
-- [Parent Dimensions](/visual/parent-element-dimensions-7-30-17.md) - Finding the available space for the component
+- [Parent Element Dimensions](/visual/parent-element-dimensions-7-30-17.md) - Finding the available space for the component
 - [Device Rotation](/visual/device-rotation-7-30-17.md) - A succinct way to handle rotations within component state
+
+### Misc
+- [Open Maps For A Location](/visual/open-maps-08-1-17.md) - A way to open up the device's map application to a location
+
 
 ## Contribute
 > 👩🏾‍💼👨🏻‍💼
