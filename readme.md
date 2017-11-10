@@ -8,7 +8,7 @@
 
 ### Miscellaneous
 - [Open Maps For A Location](/misc/open-maps-08-1-17.md) - A way to open up the device's map application to a location
-
+- [Injecting/Swapping Custom Component](/misc/swappable-11-10-17.md) - A way to allow a third-party component to be injected or swapped in place of the default component used.
 
 ## Contribute
 > 👩🏾‍💼👨🏻‍💼
